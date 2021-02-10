@@ -1,9 +1,11 @@
 {
   "name": "covid19-cases-cli",
-  "version": "1.0.0",
-  "description": "list of covid19 cases in worldwide",
+  "version": "1.0.6",
+  "description": "list of covid19 cases worldwide",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": {
+    "covid19": "index.js"
+  },
   "scripts": {
     "start": "node index.js"
   },
@@ -27,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Koddi-Evangelista/covid19-CLI.git"
+    "url": "https://github.com/Koddi-Evangelista/covid19-cases-cli.git"
   }
 }
