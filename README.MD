@@ -6,10 +6,10 @@ A COVID19 CASES TRACKER CLI
 
 ## How to install?
 
-With the following command, you can see result of **Worldwide** and **All Countries**
+With the following command, you can install the package to globally.
 
 ```bash
-$ npm install covid19-cases-cli
+$ npm install -g covid19-cases-cli
 ```
 
 ## How to Use

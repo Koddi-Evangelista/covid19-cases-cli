@@ -1,6 +1,6 @@
 {
   "name": "covid19-cases-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "list of covid19 cases worldwide",
   "main": "index.js",
   "bin": {
